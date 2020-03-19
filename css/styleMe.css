@@ -1,0 +1,12 @@
+.card{
+	float: left;
+	margin-bottom: 15px;
+	margin-left: 5px;
+}
+.skill p{
+	font-size: 18px;
+	line-height: 40px;
+}
+.staff img{
+	height: 300px;
+}
